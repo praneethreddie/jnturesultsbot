@@ -159,7 +159,8 @@ MIT
 ## Credits
 
 - Results API: https://jntuhresults.vercel.app
-- Developer: Thilak Reddy
+- Developer: Praneeth reddy 
+- Credits(https://github.com/ThilakReddyy) - for providing JNTU backend for searching results
 
 ---
 
