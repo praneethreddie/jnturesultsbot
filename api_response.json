@@ -1,0 +1,581 @@
+{
+  "details": {
+    "name": "CHINTALA MANIKANTA MUDIRAJ",
+    "rollNumber": "22N81A66B7",
+    "collegeCode": "N8",
+    "fatherName": "CHINTALA SRINIVAS RAO",
+    "branch": "CSE ( AI and ML )"
+  },
+  "results": {
+    "semesters": [
+      {
+        "semester": "1-1",
+        "subjects": [
+          {
+            "subjectCode": "18101",
+            "subjectName": "APPLIED PHYSICS LABORATORY",
+            "internalMarks": 30,
+            "externalMarks": 53,
+            "totalMarks": 83,
+            "grades": "A+",
+            "credits": 1.5
+          },
+          {
+            "subjectCode": "18107",
+            "subjectName": "ELEMENTS OF COMPUTER SCIENCE & ENGINEERING",
+            "internalMarks": 28,
+            "externalMarks": 0,
+            "totalMarks": 28,
+            "grades": "B",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18114",
+            "subjectName": "ENGINEERING WORKSHOP",
+            "internalMarks": 31,
+            "externalMarks": 50,
+            "totalMarks": 81,
+            "grades": "A+",
+            "credits": 2.5
+          },
+          {
+            "subjectCode": "18115",
+            "subjectName": "ENGLISH LANGUAGE AND COMMUNICATION SKILLS LABORATORY",
+            "internalMarks": 32,
+            "externalMarks": 48,
+            "totalMarks": 80,
+            "grades": "A+",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18117",
+            "subjectName": "PROGRAMMING FOR PROBLEM SOLVING LABORATORY",
+            "internalMarks": 29,
+            "externalMarks": 43,
+            "totalMarks": 72,
+            "grades": "A",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18120",
+            "subjectName": "ENVIRONMENTAL SCIENCE",
+            "internalMarks": 50,
+            "externalMarks": 0,
+            "totalMarks": 50,
+            "grades": "B",
+            "credits": 0
+          },
+          {
+            "subjectCode": "181AA",
+            "subjectName": "APPLIED PHYSICS",
+            "internalMarks": 24,
+            "externalMarks": 21,
+            "totalMarks": 45,
+            "grades": "C",
+            "credits": 4
+          },
+          {
+            "subjectCode": "181AK",
+            "subjectName": "ENGLISH FOR SKILL ENHANCEMENT",
+            "internalMarks": 21,
+            "externalMarks": 32,
+            "totalMarks": 53,
+            "grades": "B",
+            "credits": 2
+          },
+          {
+            "subjectCode": "181AN",
+            "subjectName": "MATRICES AND CALCULUS",
+            "internalMarks": 25,
+            "externalMarks": 21,
+            "totalMarks": 46,
+            "grades": "C",
+            "credits": 4
+          },
+          {
+            "subjectCode": "181AP",
+            "subjectName": "PROGRAMMING FOR PROBLEM SOLVING",
+            "internalMarks": 19,
+            "externalMarks": 25,
+            "totalMarks": 44,
+            "grades": "C",
+            "credits": 3
+          }
+        ],
+        "semesterSGPA": "6.30",
+        "semesterCredits": 20,
+        "semesterGrades": 126,
+        "backlogs": 0,
+        "failed": false
+      },
+      {
+        "semester": "1-2",
+        "subjects": [
+          {
+            "subjectCode": "18203",
+            "subjectName": "BASIC ELECTRICAL ENGINEERING LABORATORY",
+            "internalMarks": 33,
+            "externalMarks": 54,
+            "totalMarks": 87,
+            "grades": "A+",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18208",
+            "subjectName": "ENGINEERING CHEMISTRY LABORATORY",
+            "internalMarks": 21,
+            "externalMarks": 47,
+            "totalMarks": 68,
+            "grades": "B+",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18213",
+            "subjectName": "IT WORKSHOP",
+            "internalMarks": 33,
+            "externalMarks": 57,
+            "totalMarks": 90,
+            "grades": "O",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18215",
+            "subjectName": "PYTHON PROGRAMMING LABORATORY",
+            "internalMarks": 23,
+            "externalMarks": 40,
+            "totalMarks": 63,
+            "grades": "B+",
+            "credits": 2
+          },
+          {
+            "subjectCode": "182AC",
+            "subjectName": "BASIC ELECTRICAL ENGINEERING",
+            "internalMarks": 29,
+            "externalMarks": 21,
+            "totalMarks": 50,
+            "grades": "B",
+            "credits": 2
+          },
+          {
+            "subjectCode": "182AG",
+            "subjectName": "ELECTRONIC DEVICES AND CIRCUITS",
+            "internalMarks": 27,
+            "externalMarks": 21,
+            "totalMarks": 48,
+            "grades": "C",
+            "credits": 2
+          },
+          {
+            "subjectCode": "182AH",
+            "subjectName": "ENGINEERING CHEMISTRY",
+            "internalMarks": 21,
+            "externalMarks": 24,
+            "totalMarks": 45,
+            "grades": "C",
+            "credits": 4
+          },
+          {
+            "subjectCode": "182AR",
+            "subjectName": "ORDINARY DIFFERENTIAL EQUATIONS AND VECTOR CALCULUS",
+            "internalMarks": 24,
+            "externalMarks": 21,
+            "totalMarks": 45,
+            "grades": "C",
+            "credits": 4
+          },
+          {
+            "subjectCode": "182AV",
+            "subjectName": "COMPUTER AIDED ENGINEERING GRAPHICS",
+            "internalMarks": 32,
+            "externalMarks": 24,
+            "totalMarks": 56,
+            "grades": "B",
+            "credits": 3
+          }
+        ],
+        "semesterSGPA": "6.00",
+        "semesterCredits": 20,
+        "semesterGrades": 120,
+        "backlogs": 0,
+        "failed": false
+      },
+      {
+        "semester": "2-1",
+        "subjects": [
+          {
+            "subjectCode": "18319",
+            "subjectName": "INTRODUCTION TO DATA STRUCTURES LAB ",
+            "internalMarks": 30,
+            "externalMarks": 48,
+            "totalMarks": 78,
+            "grades": "A",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18325",
+            "subjectName": "NODE JS REACT JS DJANGO",
+            "internalMarks": 22,
+            "externalMarks": 37,
+            "totalMarks": 59,
+            "grades": "B",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18327",
+            "subjectName": "OPERATING SYSTEMS LAB",
+            "internalMarks": 20,
+            "externalMarks": 30,
+            "totalMarks": 50,
+            "grades": "B",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18332",
+            "subjectName": "SOFTWARE ENGINEERING LAB",
+            "internalMarks": 25,
+            "externalMarks": 38,
+            "totalMarks": 63,
+            "grades": "B+",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18338",
+            "subjectName": "CONSTITUTION OF INDIA",
+            "internalMarks": 97,
+            "externalMarks": 0,
+            "totalMarks": 97,
+            "grades": "O",
+            "credits": 0
+          },
+          {
+            "subjectCode": "183AH",
+            "subjectName": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+            "internalMarks": 20,
+            "externalMarks": 23,
+            "totalMarks": 43,
+            "grades": "C",
+            "credits": 3
+          },
+          {
+            "subjectCode": "183AM",
+            "subjectName": "DATA STRUCTURES",
+            "internalMarks": 23,
+            "externalMarks": 23,
+            "totalMarks": 46,
+            "grades": "C",
+            "credits": 3
+          },
+          {
+            "subjectCode": "183BJ",
+            "subjectName": "MATHEMATICAL AND STATISTICAL FOUNDATIONS",
+            "internalMarks": 32,
+            "externalMarks": 21,
+            "totalMarks": 53,
+            "grades": "B",
+            "credits": 4
+          },
+          {
+            "subjectCode": "183BV",
+            "subjectName": "OPERATING SYSTEMS",
+            "internalMarks": 20,
+            "externalMarks": 22,
+            "totalMarks": 42,
+            "grades": "C",
+            "credits": 3
+          },
+          {
+            "subjectCode": "183CD",
+            "subjectName": "SOFTWARE ENGINEERING",
+            "internalMarks": 27,
+            "externalMarks": 26,
+            "totalMarks": 53,
+            "grades": "B",
+            "credits": 3
+          }
+        ],
+        "semesterSGPA": "5.70",
+        "semesterCredits": 20,
+        "semesterGrades": 114,
+        "backlogs": 0,
+        "failed": false
+      },
+      {
+        "semester": "2-2",
+        "subjects": [
+          {
+            "subjectCode": "184AQ",
+            "subjectName": "DATABASE MANAGEMENT SYSTEMS",
+            "internalMarks": 23,
+            "externalMarks": 21,
+            "totalMarks": 44,
+            "grades": "C",
+            "credits": 3
+          },
+          {
+            "subjectCode": "184AU",
+            "subjectName": "DISCRETE MATHEMATICS",
+            "internalMarks": 33,
+            "externalMarks": 10,
+            "totalMarks": 43,
+            "grades": "F",
+            "credits": 0
+          },
+          {
+            "subjectCode": "184BH",
+            "subjectName": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+            "internalMarks": 17,
+            "externalMarks": 3,
+            "totalMarks": 20,
+            "grades": "F",
+            "credits": 0
+          },
+          {
+            "subjectCode": "18409",
+            "subjectName": "DATABASE MANAGEMENT SYSTEMS LAB",
+            "internalMarks": 19,
+            "externalMarks": 42,
+            "totalMarks": 61,
+            "grades": "B+",
+            "credits": 1
+          },
+          {
+            "subjectCode": "184BY",
+            "subjectName": "OBJECT ORIENTED PROGRAMMING THROUGH JAVA",
+            "internalMarks": 14,
+            "externalMarks": 14,
+            "totalMarks": 28,
+            "grades": "F",
+            "credits": 0
+          },
+          {
+            "subjectCode": "18419",
+            "subjectName": "JAVA PROGRAMMING LAB",
+            "internalMarks": 18,
+            "externalMarks": 32,
+            "totalMarks": 50,
+            "grades": "B",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18429",
+            "subjectName": "PROLOG LISP PYSWIP",
+            "internalMarks": 16,
+            "externalMarks": 30,
+            "totalMarks": 46,
+            "grades": "C",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18435",
+            "subjectName": "GENDER SENSITIZATION LAB",
+            "internalMarks": 86,
+            "externalMarks": 0,
+            "totalMarks": 86,
+            "grades": "A+",
+            "credits": 0
+          },
+          {
+            "subjectCode": "18441",
+            "subjectName": "REAL-TIME RESEARCH PROJECT/ FIELD BASED RESEARCH PROJECT",
+            "internalMarks": 39,
+            "externalMarks": 0,
+            "totalMarks": 39,
+            "grades": "A",
+            "credits": 2
+          },
+          {
+            "subjectCode": "184AD",
+            "subjectName": "AUTOMATA THEORY AND COMPILER DESIGN",
+            "internalMarks": 16,
+            "externalMarks": 0,
+            "totalMarks": 16,
+            "grades": "F",
+            "credits": 0
+          }
+        ],
+        "semesterSGPA": "6.12",
+        "semesterCredits": 8,
+        "semesterGrades": 49,
+        "backlogs": 4,
+        "failed": true
+      },
+      {
+        "semester": "3-1",
+        "subjects": [
+          {
+            "subjectCode": "185AR",
+            "subjectName": "BUSINESS ECONOMICS & FINANCIAL ANALYSIS",
+            "internalMarks": 28,
+            "externalMarks": 21,
+            "totalMarks": 49,
+            "grades": "C",
+            "credits": 3
+          },
+          {
+            "subjectCode": "18502",
+            "subjectName": "ADVANCED ENGLISH COMMUNICATION SKILLS LAB",
+            "internalMarks": 36,
+            "externalMarks": 48,
+            "totalMarks": 84,
+            "grades": "A+",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18506",
+            "subjectName": "COMPUTER NETWORKS LAB",
+            "internalMarks": 34,
+            "externalMarks": 51,
+            "totalMarks": 85,
+            "grades": "A+",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18514",
+            "subjectName": "MACHINE LEARNING LAB",
+            "internalMarks": 36,
+            "externalMarks": 51,
+            "totalMarks": 87,
+            "grades": "A+",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18530",
+            "subjectName": "UI DESIGN-FLUTTER",
+            "internalMarks": 20,
+            "externalMarks": 31,
+            "totalMarks": 51,
+            "grades": "B",
+            "credits": 1
+          },
+          {
+            "subjectCode": "18539",
+            "subjectName": "INTELLECTUAL PROPERTY RIGHTS",
+            "internalMarks": 85,
+            "externalMarks": 0,
+            "totalMarks": 85,
+            "grades": "A+",
+            "credits": 0
+          },
+          {
+            "subjectCode": "185BB",
+            "subjectName": "COMPUTER NETWORKS",
+            "internalMarks": 20,
+            "externalMarks": 21,
+            "totalMarks": 41,
+            "grades": "C",
+            "credits": 3
+          },
+          {
+            "subjectCode": "185BT",
+            "subjectName": "DESIGN AND ANALYSIS OF ALGORITHMS",
+            "internalMarks": 21,
+            "externalMarks": 27,
+            "totalMarks": 48,
+            "grades": "C",
+            "credits": 4
+          },
+          {
+            "subjectCode": "185EU",
+            "subjectName": "WEB PROGRAMMING",
+            "internalMarks": 19,
+            "externalMarks": 10,
+            "totalMarks": 29,
+            "grades": "F",
+            "credits": 0
+          }
+        ],
+        "semesterSGPA": "5.93",
+        "semesterCredits": 14,
+        "semesterGrades": 83,
+        "backlogs": 1,
+        "failed": true
+      },
+      {
+        "semester": "3-2",
+        "subjects": [
+          {
+            "subjectCode": "18621",
+            "subjectName": "DATA ANALYTICS LAB",
+            "internalMarks": 28,
+            "externalMarks": 48,
+            "totalMarks": 76,
+            "grades": "A",
+            "credits": 1.5
+          },
+          {
+            "subjectCode": "18635",
+            "subjectName": "NATURAL LANGUAGE PROCESSING LAB",
+            "internalMarks": 30,
+            "externalMarks": 48,
+            "totalMarks": 78,
+            "grades": "A",
+            "credits": 1.5
+          },
+          {
+            "subjectCode": "18692",
+            "subjectName": "INDUSTRIAL ORIENTED MINI PROJECT",
+            "internalMarks": 0,
+            "externalMarks": 90,
+            "totalMarks": 90,
+            "grades": "O",
+            "credits": 2
+          },
+          {
+            "subjectCode": "186BH",
+            "subjectName": "DATA ANALYTICS",
+            "internalMarks": 17,
+            "externalMarks": 23,
+            "totalMarks": 40,
+            "grades": "C",
+            "credits": 3
+          },
+          {
+            "subjectCode": "186CW",
+            "subjectName": "KNOWLEDGE REPRESENTATION AND REASONING",
+            "internalMarks": 20,
+            "externalMarks": 7,
+            "totalMarks": 27,
+            "grades": "F",
+            "credits": 0
+          },
+          {
+            "subjectCode": "186DJ",
+            "subjectName": "NATURAL LANGUAGE PROCESSING",
+            "internalMarks": 16,
+            "externalMarks": 26,
+            "totalMarks": 42,
+            "grades": "C",
+            "credits": 3
+          },
+          {
+            "subjectCode": "186EK",
+            "subjectName": "SOFTWARE TESTING METHODOLOGIES",
+            "internalMarks": 27,
+            "externalMarks": 25,
+            "totalMarks": 52,
+            "grades": "B",
+            "credits": 3
+          },
+          {
+            "subjectCode": "186FU",
+            "subjectName": "FUNDAMENTALS OF DATA SCIENCE",
+            "internalMarks": 16,
+            "externalMarks": 9,
+            "totalMarks": 25,
+            "grades": "F",
+            "credits": 0
+          }
+        ],
+        "semesterSGPA": "6.57",
+        "semesterCredits": 14,
+        "semesterGrades": 92,
+        "backlogs": 2,
+        "failed": true
+      }
+    ],
+    "CGPA": "6.08",
+    "backlogs": 7,
+    "credits": 96,
+    "grades": 584
+  }
+}
