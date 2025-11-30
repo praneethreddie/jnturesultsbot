@@ -1,6 +1,10 @@
 # JNTUH Results Telegram Bot
 
 A Telegram bot that fetches JNTUH student academic results when provided with a roll number.
+   ```
+ @jnturesultscheckerbot
+   ```
+search the above bot in telegram to use it
 
 ## Features
 
